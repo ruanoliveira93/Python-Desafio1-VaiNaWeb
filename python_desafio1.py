@@ -70,7 +70,7 @@ print("SISTEMA DE CALCULO VAI NA WEB")
 
 primeiro_numero = input("Digite o primeiro numero: ")
 operador_numerico = input(
-    "Digite o operado numerido. Ex['+', '-', '*', '/', '%', '**', '//']: ")
+    "Digite o operado numerico. Ex['+', '-', '*', '/', '%', '**', '//']: ")
 segundo_numero = input("Digite o segundo numero: ")
 
 if (operador_numerico == "+"):
